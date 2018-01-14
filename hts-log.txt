@@ -1,0 +1,295 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 14 Jan 2018 21:00:34 at https://konservative.dk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://konservative.dk/ -O1 "C:\My Web Sites\Morten" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:02:57	Error: 	"Method Not Allowed" (405) at link https://konservative.dk/xmlrpc.php (from https://konservative.dk/)
+21:07:11	Warning: 	Moved Permanently for https://konservative.dk/politisk-horisont/
+21:07:11	Warning: 	File has moved from https://konservative.dk/politisk-horisont/ to https://konservative.dk/politisk-horisont/aargang-2017/nr-4/
+21:07:46	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 6446): prod.wp.konservative.dk/wp-content/uploads/sites/8/2016/07/Frigørelsen-fra-Venstre-150x150.jpg
+21:10:06	Error: 	"Not Found" (404) at link https://konservative.dk/wp-content/plugins/wordpress-social-stream/js/jquery.social.stream.1.6.1.min.js (from https://konservative.dk/)
+21:10:23	Warning: 	Found for https://konservative.dk/idekatalog/
+21:10:23	Warning: 	File has moved from https://konservative.dk/idekatalog/ to /membercare/login?redirect=https://konservative.dk/idekatalog/
+21:10:39	Warning: 	Found for https://konservative.dk/kompetencekatalog/
+21:10:39	Warning: 	File has moved from https://konservative.dk/kompetencekatalog/ to /membercare/login?redirect=https://konservative.dk/kompetencekatalog/
+21:10:50	Warning: 	Found for https://konservative.dk/kampagneguide/
+21:10:50	Warning: 	File has moved from https://konservative.dk/kampagneguide/ to /membercare/login?redirect=https://konservative.dk/kampagneguide/
+21:11:20	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/2017/11/17/ (from https://konservative.dk/aktuelt/)
+21:11:21	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/2017/10/27/maritim-konference-2017-billeder-erhvervets-parter-moedtes/ (from https://konservative.dk/aktuelt/)
+21:15:36	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/kalender/liste/?tribe_event_display=past&tribe_paged=1 (from https://konservative.dk/kalender/)
+21:16:20	Warning: 	Moved Permanently for https://konservative.dk/maerkesager/
+21:16:20	Warning: 	File has moved from https://konservative.dk/maerkesager/ to https://konservative.dk/politik/maerkesager/
+21:16:37	Warning: 	Moved Permanently for https://konservative.dk/maerkesager/lavere-skat/
+21:16:37	Warning: 	File has moved from https://konservative.dk/maerkesager/lavere-skat/ to https://konservative.dk/politik/maerkesager/skat/
+21:16:37	Warning: 	Moved Permanently for https://konservative.dk/maerkesager/mere-politi/
+21:16:37	Warning: 	File has moved from https://konservative.dk/maerkesager/mere-politi/ to https://konservative.dk/politik/maerkesager/mere-politi/
+21:16:37	Warning: 	Moved Permanently for https://konservative.dk/maerkesager/et-styrket-forsvar/
+21:16:37	Warning: 	File has moved from https://konservative.dk/maerkesager/et-styrket-forsvar/ to https://konservative.dk/politik/maerkesager/et-styrket-forsvar/
+21:16:37	Warning: 	Moved Permanently for https://konservative.dk/maerkesager/flygtninge/
+21:16:37	Warning: 	File has moved from https://konservative.dk/maerkesager/flygtninge/ to https://konservative.dk/politik/maerkesager/flygtninge/
+21:16:38	Warning: 	Moved Permanently for konservative.dk/robots.txt
+21:16:38	Warning: 	Redirected link is identical because of 'URL Hack' option: konservative.dk/robots.txt and https://konservative.dk/robots.txt
+21:16:38	Warning: 	Warning moved treated for konservative.dk/robots.txt (real one is https://konservative.dk/robots.txt)
+21:16:38	Warning: 	Moved Permanently for konservative.dk/politik/maerkesager/mere-faglighed-og-dannelse/
+21:16:38	Warning: 	Redirected link is identical because of 'URL Hack' option: konservative.dk/politik/maerkesager/mere-faglighed-og-dannelse/ and https://konservative.dk/politik/maerkesager/mere-faglighed-og-dannelse/
+21:16:38	Warning: 	File has moved from konservative.dk/politik/maerkesager/mere-faglighed-og-dannelse/ to https://konservative.dk/politik/maerkesager/mere-faglighed-og-dannelse/
+21:16:38	Warning: 	Moved Permanently for https://konservative.dk/maerkesager/groent-danmark/
+21:16:38	Warning: 	File has moved from https://konservative.dk/maerkesager/groent-danmark/ to https://konservative.dk/politik/maerkesager/groent-danmark/
+21:16:45	Warning: 	Moved Permanently for konservative.dk/partiet/regioner/regionsudvalg-sjaelland/valgprogram/
+21:16:45	Warning: 	Redirected link is identical because of 'URL Hack' option: konservative.dk/partiet/regioner/regionsudvalg-sjaelland/valgprogram/ and https://konservative.dk/partiet/regioner/regionsudvalg-sjaelland/valgprogram/
+21:16:45	Warning: 	File has moved from konservative.dk/partiet/regioner/regionsudvalg-sjaelland/valgprogram/ to https://konservative.dk/partiet/regioner/regionsudvalg-sjaelland/valgprogram/
+21:16:48	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/partiet/vaelgerforeninger/nordfyn-vaelgerforening/ (from https://konservative.dk/partiet/vaelgerforeninger/)
+21:16:48	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/partiet/vaelgerforeninger/broendby-vaelgerforening/ (from https://konservative.dk/partiet/vaelgerforeninger/)
+21:16:56	Warning: 	Retry after error 500 (Internal Server Error) at link hvisduvilmere.wp.konservative.dk/wp-content/uploads/sites/10/2016/06/Skærmbillede-2016-09-06-kl.-17.47.07-300x109.png (from https://konservative.dk/partiet/ungdomsorganisationer/)
+21:16:56	Warning: 	Moved Permanently for https://konservative.dk/politik/vision/
+21:16:56	Warning: 	File has moved from https://konservative.dk/politik/vision/ to https://konservative.dk/politik/maerkesager/
+21:16:57	Error: 	"Not Found" (404) at link https://konservative.dk/databehandling (from https://konservative.dk/vaer-med/bliv-aktiv/)
+21:41:17	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/2017/10/11/ (from https://konservative.dk/2017/10/27/)
+21:43:57	Warning: 	Moved Permanently for https://konservative.dk/aktuelt/page/1/
+21:43:57	Warning: 	File has moved from https://konservative.dk/aktuelt/page/1/ to https://konservative.dk/aktuelt/
+21:46:46	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/2015/11/17/konservativt-pres-sikrer-flere-betjente/ (from https://konservative.dk/aktuelt/page/16/)
+21:49:10	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 14645): https://cdn.konservative.dk/wp-content/uploads/sites/8/2017/04/17637229_1303182649776479_3967350641324808684_o-200x200.jpg
+21:55:14	Warning: 	Moved Permanently for https://konservative.dk/politik/det-mener-vi-om/sundhedspolitik/
+21:55:14	Warning: 	File has moved from https://konservative.dk/politik/det-mener-vi-om/sundhedspolitik/ to https://konservative.dk/politik/alle-emner/sundhedspolitik/
+21:55:17	Warning: 	Moved Permanently for https://konservative.dk/politik/det-mener-vi-om/uddannelsespolitik/
+21:55:17	Warning: 	File has moved from https://konservative.dk/politik/det-mener-vi-om/uddannelsespolitik/ to https://konservative.dk/politik/det-mener-vi-om/uddannelse-og-skole/
+21:55:20	Warning: 	Moved Permanently for https://konservative.dk/politik/det-mener-vi-om/socialpolitik/
+21:55:20	Warning: 	File has moved from https://konservative.dk/politik/det-mener-vi-om/socialpolitik/ to https://konservative.dk/politik/alle-emner/socialpolitik/
+21:55:52	Warning: 	Moved Permanently for https://konservative.dk/politisk-horisont/aargang-2017/nr-4/regionraadsvalget-tider-oversete-valg/
+21:55:52	Warning: 	File has moved from https://konservative.dk/politisk-horisont/aargang-2017/nr-4/regionraadsvalget-tider-oversete-valg/ to https://konservative.dk/politisk-horisont/aargang-2017/nr-4/regionraadsvalget/
+21:56:22	Warning: 	Moved Permanently for https://konservative.dk/partiet/politisk-horisont/arkiv/
+21:56:22	Warning: 	File has moved from https://konservative.dk/partiet/politisk-horisont/arkiv/ to https://konservative.dk/politisk-horisont/arkiv/
+21:56:22	Error: 	"Not Found" (404) at link https://konservative.dk/partiet/regioner/regionsudvalg-midtjylland/https./www.facebook.com/John%20S%c3%b8rensen (from https://konservative.dk/partiet/regioner/regionsudvalg-midtjylland/)
+21:56:22	Error: 	"Not Found" (404) at link https://konservative.dk/partiet/storkredse/vestjyllands-storkreds/https./www.facebook.com/John%20S%c3%b8rensen (from https://konservative.dk/partiet/storkredse/vestjyllands-storkreds/)
+21:56:22	Error: 	"Not Found" (404) at link https://konservative.dk/partiet/vaelgerforeninger/holstebro-vaelgerforening/https./www.facebook.com/John%20S%c3%b8rensen (from https://konservative.dk/partiet/vaelgerforeninger/holstebro-vaelgerforening/)
+21:56:22	Warning: 	Retry after error 500 () at link hvisduvilmere.wp.konservative.dk/wp-content/uploads/sites/10/2016/06/Skærmbillede-2016-09-06-kl.-17.47.07-300x109.png (from https://konservative.dk/partiet/ungdomsorganisationer/)
+21:56:33	Error: 	"Not Found" (404) at link https://konservative.dk/wp-content/uploads/sites/8/2017/01/Login-skaerm.png (from https://konservative.dk/vejledninger/hjemmesider/)
+21:57:24	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=konference (from https://konservative.dk/tag/konference/)
+21:57:46	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/2017/09/23/landsraad-2017-saa-vi-gang/l1030439_web1/ (from https://konservative.dk/2017/09/23/landsraad-2017-saa-vi-gang/)
+21:57:56	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/2017/09/23/landsraad-2017-saa-vi-gang/l1030557_web1/ (from https://konservative.dk/2017/09/23/landsraad-2017-saa-vi-gang/)
+21:58:32	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/2017/09/23/landsraad-2017-saa-vi-gang/l1030848_web1/ (from https://konservative.dk/2017/09/23/landsraad-2017-saa-vi-gang/)
+22:02:01	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/2017/02/27/ (from https://konservative.dk/category/debat-og-blogindlaeg/page/2/)
+22:02:18	Warning: 	Moved Permanently for https://konservative.dk/category/debat-og-blogindlaeg/page/1/
+22:02:18	Warning: 	File has moved from https://konservative.dk/category/debat-og-blogindlaeg/page/1/ to https://konservative.dk/category/debat-og-blogindlaeg/
+22:03:04	Warning: 	Moved Permanently for https://konservative.dk/category/diverse/page/1/
+22:03:04	Warning: 	File has moved from https://konservative.dk/category/diverse/page/1/ to https://konservative.dk/category/diverse/
+22:03:48	Warning: 	Moved Permanently for konservative.dk/arrangementer/tilmelding-konference-hjemloese-paa-christiansborg/
+22:03:48	Warning: 	Redirected link is identical because of 'URL Hack' option: konservative.dk/arrangementer/tilmelding-konference-hjemloese-paa-christiansborg/ and https://konservative.dk/arrangementer/tilmelding-konference-hjemloese-paa-christiansborg/
+22:03:48	Warning: 	File has moved from konservative.dk/arrangementer/tilmelding-konference-hjemloese-paa-christiansborg/ to https://konservative.dk/arrangementer/tilmelding-konference-hjemloese-paa-christiansborg/
+22:03:48	Warning: 	Moved Permanently for https://konservative.dk/category/konservative-resultater/page/1/
+22:03:48	Warning: 	File has moved from https://konservative.dk/category/konservative-resultater/page/1/ to https://konservative.dk/category/konservative-resultater/
+22:04:32	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/tag/natur/ (from https://konservative.dk/2016/03/16/naturkamp-ogsaa-kulturkamp/)
+22:05:02	Warning: 	Moved Permanently for https://konservative.dk/category/pressemeddelelser/page/1/
+22:05:02	Warning: 	File has moved from https://konservative.dk/category/pressemeddelelser/page/1/ to https://konservative.dk/category/pressemeddelelser/
+22:05:07	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/2017/01/ (from https://konservative.dk/2016/12/15/her-er-rasmus-jarlovs-nye-ordfoererskaber/)
+22:05:07	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/2016/09/08/ (from https://konservative.dk/category/pressemeddelelser/page/3/)
+22:05:27	Error: 	"Not Found" (404) at link https://konservative.dk/kalender/page/2/ (from https://konservative.dk/kalender/liste/?tribe_event_display=past&tribe_paged=1)
+22:06:07	Warning: 	Moved Permanently for https://konservative.dk/politik/det-mener-vi-om/uddannelse-og-skole/
+22:06:07	Warning: 	File has moved from https://konservative.dk/politik/det-mener-vi-om/uddannelse-og-skole/ to https://konservative.dk/politik/alle-emner/uddannelse-og-skole/
+22:06:16	Error: 	"" (500) after 2 retries at link hvisduvilmere.wp.konservative.dk/wp-content/uploads/sites/10/2016/06/Skærmbillede-2016-09-06-kl.-17.47.07-300x109.png (from https://konservative.dk/partiet/ungdomsorganisationer/)
+22:06:33	Error: 	"Not Found" (404) at link https://konservative.dk/vejledninger/hjemmesider/oversigt-indholdselementer/www.konservative.dk (from https://konservative.dk/vejledninger/hjemmesider/oversigt-indholdselementer/)
+22:06:33	Error: 	"Not Found" (404) at link https://konservative.dk/wp-content/uploads/sites/8/2016/12/Mette_Abildgaard.png (from https://konservative.dk/vejledninger/hjemmesider/oversigt-indholdselementer/)
+22:06:40	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=forsvaret (from https://konservative.dk/tag/forsvaret/)
+22:06:43	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=indlaeg (from https://konservative.dk/tag/indlaeg/)
+22:06:44	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=politi (from https://konservative.dk/tag/politi/)
+22:06:54	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=dannebrog (from https://konservative.dk/tag/dannebrog/)
+22:06:54	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=flagdag (from https://konservative.dk/tag/flagdag/)
+22:06:54	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=lavere-skat (from https://konservative.dk/tag/lavere-skat/)
+22:06:54	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=skat (from https://konservative.dk/tag/skat/)
+22:06:54	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=skattereform (from https://konservative.dk/tag/skattereform/)
+22:06:54	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=rasmusjarlov (from https://konservative.dk/tag/rasmusjarlov/)
+22:06:55	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=det-konservative-folkeparti (from https://konservative.dk/tag/det-konservative-folkeparti/)
+22:06:59	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=beskaeftigelse (from https://konservative.dk/tag/beskaeftigelse/)
+22:06:59	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=kontanthjaelpsloft (from https://konservative.dk/tag/kontanthjaelpsloft/)
+22:06:59	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=skattelettelser (from https://konservative.dk/tag/skattelettelser/)
+22:06:59	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=boernehospice (from https://konservative.dk/tag/boernehospice/)
+22:06:59	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=samfundspris (from https://konservative.dk/tag/samfundspris/)
+22:06:59	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=dagpenge (from https://konservative.dk/tag/dagpenge/)
+22:07:03	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=maimercado (from https://konservative.dk/tag/maimercado/)
+22:07:06	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=flygtningepres (from https://konservative.dk/tag/flygtningepres/)
+22:07:06	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=grundskyld (from https://konservative.dk/tag/grundskyld/)
+22:07:07	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=soeren-pape-poulsen (from https://konservative.dk/tag/soeren-pape-poulsen/)
+22:07:07	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=indbrud (from https://konservative.dk/tag/indbrud/)
+22:07:10	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=brianmikkelsen (from https://konservative.dk/tag/brianmikkelsen/)
+22:07:31	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/tag/asylsystem/ (from https://konservative.dk/2016/01/05/graensekontrol-er-symptombehandling/)
+22:07:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=erhverv (from https://konservative.dk/tag/erhverv/)
+22:07:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=erhvervsskole (from https://konservative.dk/tag/erhvervsskole/)
+22:07:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=erhvervsskoler (from https://konservative.dk/tag/erhvervsskoler/)
+22:07:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=roskilde-tekniske-skole (from https://konservative.dk/tag/roskilde-tekniske-skole/)
+22:07:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=selandia (from https://konservative.dk/tag/selandia/)
+22:07:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=uddannelse (from https://konservative.dk/tag/uddannelse/)
+22:07:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=brigitte-jerkel (from https://konservative.dk/tag/brigitte-jerkel/)
+22:07:53	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=bandepakke (from https://konservative.dk/tag/bandepakke/)
+22:07:53	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=orla-oesterby (from https://konservative.dk/tag/orla-oesterby/)
+22:08:03	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=regering (from https://konservative.dk/tag/regering/)
+22:08:03	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=tryghed (from https://konservative.dk/tag/tryghed/)
+22:08:03	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=finanslov-2017 (from https://konservative.dk/tag/finanslov-2017/)
+22:08:03	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=mindelunden (from https://konservative.dk/tag/mindelunden/)
+22:08:05	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=erhvervsskattelettelse (from https://konservative.dk/tag/erhvervsskattelettelse/)
+22:08:05	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=pso-afgift (from https://konservative.dk/tag/pso-afgift/)
+22:08:05	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=groen-omstiling (from https://konservative.dk/tag/groen-omstiling/)
+22:08:05	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=groenne-arbejdspladser (from https://konservative.dk/tag/groenne-arbejdspladser/)
+22:08:05	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=havvindmoeller (from https://konservative.dk/tag/havvindmoeller/)
+22:08:05	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=metteabildgaard (from https://konservative.dk/tag/metteabildgaard/)
+22:08:05	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=planlov (from https://konservative.dk/tag/planlov/)
+22:08:06	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=gymnasiereform (from https://konservative.dk/tag/gymnasiereform/)
+22:08:06	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=demokrati (from https://konservative.dk/tag/demokrati/)
+22:08:06	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=flygtningekrise (from https://konservative.dk/tag/flygtningekrise/)
+22:08:06	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=grundlovsdag (from https://konservative.dk/tag/grundlovsdag/)
+22:08:06	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=skyggedanmark (from https://konservative.dk/tag/skyggedanmark/)
+22:08:06	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=klimaforandringer (from https://konservative.dk/tag/klimaforandringer/)
+22:08:06	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=kultur (from https://konservative.dk/tag/kultur/)
+22:08:07	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=vaerdier (from https://konservative.dk/tag/vaerdier/)
+22:08:07	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=firmabiler (from https://konservative.dk/tag/firmabiler/)
+22:08:07	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=groen-energi (from https://konservative.dk/tag/groen-energi/)
+22:08:07	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=miljoe (from https://konservative.dk/tag/miljoe/)
+22:08:09	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=fremtidsfond (from https://konservative.dk/tag/fremtidsfond/)
+22:08:09	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=kernevelfaerd (from https://konservative.dk/tag/kernevelfaerd/)
+22:08:09	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=vaekst (from https://konservative.dk/tag/vaekst/)
+22:08:09	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=ejendomsbeskatningssystem (from https://konservative.dk/tag/ejendomsbeskatningssystem/)
+22:08:10	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=brigitte-klintskov-jerkel (from https://konservative.dk/tag/brigitte-klintskov-jerkel/)
+22:08:10	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=merete-scheelsbeck (from https://konservative.dk/tag/merete-scheelsbeck/)
+22:08:10	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=naserkhader (from https://konservative.dk/tag/naserkhader/)
+22:08:10	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=boligskat (from https://konservative.dk/tag/boligskat/)
+22:08:10	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=regeringen (from https://konservative.dk/tag/regeringen/)
+22:08:10	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=trekloeverregeringen (from https://konservative.dk/tag/trekloeverregeringen/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=grundlovstale (from https://konservative.dk/tag/grundlovstale/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=anders-johansson (from https://konservative.dk/tag/anders-johansson/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=aeroe (from https://konservative.dk/tag/aeroe/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=aeroefaergen (from https://konservative.dk/tag/aeroefaergen/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=faerge (from https://konservative.dk/tag/faerge/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=faergetakst (from https://konservative.dk/tag/faergetakst/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=faergetakster (from https://konservative.dk/tag/faergetakster/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=landdistrikter (from https://konservative.dk/tag/landdistrikter/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=landdistrilt (from https://konservative.dk/tag/landdistrilt/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=ejendomsvurdering (from https://konservative.dk/tag/ejendomsvurdering/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=veteraner (from https://konservative.dk/tag/veteraner/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=bendt-bendtsen (from https://konservative.dk/tag/bendt-bendtsen/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=eu (from https://konservative.dk/tag/eu/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=europol (from https://konservative.dk/tag/europol/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=bornholm (from https://konservative.dk/tag/bornholm/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=folkemoede (from https://konservative.dk/tag/folkemoede/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=folkemoede-2017 (from https://konservative.dk/tag/folkemoede-2017/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=folkemoedet (from https://konservative.dk/tag/folkemoedet/)
+22:08:11	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=folkemoedet-2017 (from https://konservative.dk/tag/folkemoedet-2017/)
+22:08:20	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/kalender/grundlovsmoede-paa-ech-park/ (from https://konservative.dk/kalender/liste/?tribe_event_display=past&tribe_paged=2)
+22:08:24	Warning: 	Moved Permanently for konservative.dk/arrangementer/arrangement-nye-medlemmer-19-december/
+22:08:24	Warning: 	Redirected link is identical because of 'URL Hack' option: konservative.dk/arrangementer/arrangement-nye-medlemmer-19-december/ and https://konservative.dk/arrangementer/arrangement-nye-medlemmer-19-december/
+22:08:24	Warning: 	File has moved from konservative.dk/arrangementer/arrangement-nye-medlemmer-19-december/ to https://konservative.dk/arrangementer/arrangement-nye-medlemmer-19-december/
+22:09:21	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=donald-trump (from https://konservative.dk/tag/donald-trump/)
+22:09:23	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=usa (from https://konservative.dk/tag/usa/)
+22:09:38	Warning: 	Moved Permanently for https://konservative.dk/tag/det-konservative-folkeparti/page/1/
+22:09:38	Warning: 	File has moved from https://konservative.dk/tag/det-konservative-folkeparti/page/1/ to https://konservative.dk/tag/det-konservative-folkeparti/
+22:09:38	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=4-maj (from https://konservative.dk/tag/4-maj/)
+22:09:38	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=befrielsen-danmarks-befrielse (from https://konservative.dk/tag/befrielsen-danmarks-befrielse/)
+22:09:38	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=konferencer (from https://konservative.dk/tag/konferencer/)
+22:09:39	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=jubilaeum (from https://konservative.dk/tag/jubilaeum/)
+22:09:39	Warning: 	Moved Permanently for https://konservative.dk/tag/maimercado/page/1/
+22:09:39	Warning: 	File has moved from https://konservative.dk/tag/maimercado/page/1/ to https://konservative.dk/tag/maimercado/
+22:09:41	Warning: 	Moved Permanently for https://konservative.dk/tag/soeren-pape-poulsen/page/1/
+22:09:41	Warning: 	File has moved from https://konservative.dk/tag/soeren-pape-poulsen/page/1/ to https://konservative.dk/tag/soeren-pape-poulsen/
+22:09:41	Warning: 	Moved Permanently for https://konservative.dk/tag/brianmikkelsen/page/1/
+22:09:41	Warning: 	File has moved from https://konservative.dk/tag/brianmikkelsen/page/1/ to https://konservative.dk/tag/brianmikkelsen/
+22:09:45	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=el-afgifter (from https://konservative.dk/tag/el-afgifter/)
+22:09:45	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=infrastruktur (from https://konservative.dk/tag/infrastruktur/)
+22:09:45	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=internet (from https://konservative.dk/tag/internet/)
+22:09:45	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=transport (from https://konservative.dk/tag/transport/)
+22:09:45	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=internetaktivitet (from https://konservative.dk/tag/internetaktivitet/)
+22:09:45	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=maalrettet-efterforskning-og-overvaagning (from https://konservative.dk/tag/maalrettet-efterforskning-og-overvaagning/)
+22:09:46	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=flygtningekonvention (from https://konservative.dk/tag/flygtningekonvention/)
+22:09:46	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=graensekontrol (from https://konservative.dk/tag/graensekontrol/)
+22:09:47	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=nyaarstale-2016 (from https://konservative.dk/tag/nyaarstale-2016/)
+22:09:47	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=syrien (from https://konservative.dk/tag/syrien/)
+22:09:47	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=flygtningedebat (from https://konservative.dk/tag/flygtningedebat/)
+22:09:47	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=parallelsamfund (from https://konservative.dk/tag/parallelsamfund/)
+22:09:47	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=ungdomsdomstol (from https://konservative.dk/tag/ungdomsdomstol/)
+22:09:47	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=groen-tillaegspakke (from https://konservative.dk/tag/groen-tillaegspakke/)
+22:09:47	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=kvaelstofudledning (from https://konservative.dk/tag/kvaelstofudledning/)
+22:09:47	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=landbrugspakken (from https://konservative.dk/tag/landbrugspakken/)
+22:09:47	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=fremtidens-videregaaende-uddannelser (from https://konservative.dk/tag/fremtidens-videregaaende-uddannelser/)
+22:09:47	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=oeget-forsvarsbudget (from https://konservative.dk/tag/oeget-forsvarsbudget/)
+22:09:47	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=respekt (from https://konservative.dk/tag/respekt/)
+22:09:50	Warning: 	Moved Permanently for https://konservative.dk/2017/03/page/1/
+22:09:50	Warning: 	File has moved from https://konservative.dk/2017/03/page/1/ to https://konservative.dk/2017/03/
+22:09:50	Warning: 	Moved Permanently for https://konservative.dk/2017/02/page/1/
+22:09:50	Warning: 	File has moved from https://konservative.dk/2017/02/page/1/ to https://konservative.dk/2017/02/
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=konservative (from https://konservative.dk/tag/konservative/)
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=ny-organisationsstruktur (from https://konservative.dk/tag/ny-organisationsstruktur/)
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=soeren-vandsoe (from https://konservative.dk/tag/soeren-vandsoe/)
+22:09:50	Warning: 	Moved Permanently for https://konservative.dk/2016/12/page/1/
+22:09:50	Warning: 	File has moved from https://konservative.dk/2016/12/page/1/ to https://konservative.dk/2016/12/
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=deleoekonomi (from https://konservative.dk/tag/deleoekonomi/)
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=konkurrenceevne (from https://konservative.dk/tag/konkurrenceevne/)
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=uber (from https://konservative.dk/tag/uber/)
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=naturpakke (from https://konservative.dk/tag/naturpakke/)
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=mindelunden (from https://konservative.dk/tag/mindelunden/)
+22:09:50	Warning: 	Moved Permanently for https://konservative.dk/tag/metteabildgaard/page/1/
+22:09:50	Warning: 	File has moved from https://konservative.dk/tag/metteabildgaard/page/1/ to https://konservative.dk/tag/metteabildgaard/
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=kollektiv-trafik (from https://konservative.dk/tag/kollektiv-trafik/)
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=natur (from https://konservative.dk/tag/natur/)
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=private-opholdssteder (from https://konservative.dk/tag/private-opholdssteder/)
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=social-og-skatteomraadet (from https://konservative.dk/tag/social-og-skatteomraadet/)
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=udsatte-boern-og-unge (from https://konservative.dk/tag/udsatte-boern-og-unge/)
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=trekloeverregering (from https://konservative.dk/tag/trekloeverregering/)
+22:09:50	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=turne (from https://konservative.dk/tag/turne/)
+22:09:50	Warning: 	Moved Permanently for https://konservative.dk/2016/11/page/1/
+22:09:50	Warning: 	File has moved from https://konservative.dk/2016/11/page/1/ to https://konservative.dk/2016/11/
+22:09:51	Warning: 	Moved Permanently for https://konservative.dk/eu-konference-8-april-2017/
+22:09:51	Warning: 	File has moved from https://konservative.dk/eu-konference-8-april-2017/ to https://konservative.dk/arrangementer/eu-konference-8-april-2017/
+22:10:02	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?categories=grundlovsmoeder (from https://konservative.dk/kalender/kategori/grundlovsmoeder/)
+22:10:07	Warning: 	Moved Permanently for https://konservative.dk/partiet/politisk-horisont/din-lyn-guide-regeringsgrundlaget/
+22:10:07	Warning: 	File has moved from https://konservative.dk/partiet/politisk-horisont/din-lyn-guide-regeringsgrundlaget/ to https://konservative.dk/politisk-horisont/aargang-2017/nr-1/din-lyn-guide-regeringsgrundlaget/
+22:10:10	Warning: 	Moved Permanently for https://konservative.dk/partiet/politisk-horisont/du-ogsaa-klar-valg/
+22:10:10	Warning: 	File has moved from https://konservative.dk/partiet/politisk-horisont/du-ogsaa-klar-valg/ to https://konservative.dk/politisk-horisont/aargang-2017/nr-1/du-ogsaa-klar-valg/
+22:10:14	Warning: 	Moved Permanently for https://konservative.dk/partiet/politisk-horisont/portraet-brigitte-klintskov-jerkel/
+22:10:14	Warning: 	File has moved from https://konservative.dk/partiet/politisk-horisont/portraet-brigitte-klintskov-jerkel/ to https://konservative.dk/politisk-horisont/aargang-2017/nr-1/portraet-brigitte-klintskov-jerkel/
+22:10:20	Warning: 	Moved Permanently for https://konservative.dk/partiet/politisk-horisont/portraet-orla-oesterby/
+22:10:20	Warning: 	File has moved from https://konservative.dk/partiet/politisk-horisont/portraet-orla-oesterby/ to https://konservative.dk/politisk-horisont/aargang-2017/nr-1/portraet-orla-oesterby/
+22:10:24	Warning: 	Moved Permanently for https://konservative.dk/partiet/politisk-horisont/portraet-anders-johansson/
+22:10:24	Warning: 	File has moved from https://konservative.dk/partiet/politisk-horisont/portraet-anders-johansson/ to https://konservative.dk/politisk-horisont/aargang-2017/nr-1/portraet-anders-johansson/
+22:10:26	Warning: 	Moved Permanently for https://konservative.dk/partiet/politisk-horisont/michael-zieglers-12-raad-valgkamp/
+22:10:26	Warning: 	File has moved from https://konservative.dk/partiet/politisk-horisont/michael-zieglers-12-raad-valgkamp/ to https://konservative.dk/politisk-horisont/aargang-2017/nr-1/michael-zieglers-12-raad-valgkamp/
+22:10:29	Warning: 	Moved Permanently for https://konservative.dk/partiet/politisk-horisont/det-aktive-bagland/
+22:10:29	Warning: 	File has moved from https://konservative.dk/partiet/politisk-horisont/det-aktive-bagland/ to https://konservative.dk/politisk-horisont/aargang-2017/nr-1/det-aktive-bagland/
+22:12:05	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/politisk-horisont/aargang-2017/nr-3/bliv-aktiv-valgkampen/ (from https://konservative.dk/politisk-horisont/aargang-2017/nr-3/)
+22:12:05	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/politisk-horisont/aargang-2017/nr-3/du-kan-stemme-konservativt-allerede/ (from https://konservative.dk/politisk-horisont/aargang-2017/nr-3/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=boligskatter (from https://konservative.dk/tag/boligskatter/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=forsvar (from https://konservative.dk/tag/forsvar/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=veteranpolitik (from https://konservative.dk/tag/veteranpolitik/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=kampfly (from https://konservative.dk/tag/kampfly/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=reformer (from https://konservative.dk/tag/reformer/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=inklusion (from https://konservative.dk/tag/inklusion/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=mere-dannelse (from https://konservative.dk/tag/mere-dannelse/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=danmarks-radio (from https://konservative.dk/tag/danmarks-radio/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=public-service (from https://konservative.dk/tag/public-service/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=handelsskibe (from https://konservative.dk/tag/handelsskibe/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=offshore-skibe (from https://konservative.dk/tag/offshore-skibe/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=soemandsskat (from https://konservative.dk/tag/soemandsskat/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=asylsystem (from https://konservative.dk/tag/asylsystem/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=folketingets-udenrigspolitiske-naevn (from https://konservative.dk/tag/folketingets-udenrigspolitiske-naevn/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=iran (from https://konservative.dk/tag/iran/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=naser-khader-vaerdipolitik (from https://konservative.dk/tag/naser-khader-vaerdipolitik/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=boligskat-skat (from https://konservative.dk/tag/boligskat-skat/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?tags=boligejere (from https://konservative.dk/tag/boligejere/)
+22:12:32	Error: 	"Not Found" (404) at link https://konservative.dk/wp-json/tribe/events/v1/events/?categories=generalforsamlinger (from https://konservative.dk/kalender/kategori/generalforsamlinger/)
+22:12:32	Warning: 	Moved Permanently for https://konservative.dk/arrangementer/eu-konference-8-april-2017/
+22:12:32	Warning: 	File has moved from https://konservative.dk/arrangementer/eu-konference-8-april-2017/ to https://konservative.dk/arrangementer/test/
+22:12:32	Warning: 	Retry after error -2 (Receive Time Out) at link https://konservative.dk/kalender/grundlovsmoede-paa-ech-park/?ical=1 (from https://konservative.dk/kalender/grundlovsmoede-paa-ech-park/)
+22:13:56	Warning: 	Found for https://konservative.dk/politisk-inspiration-kv17/
+22:13:56	Warning: 	File has moved from https://konservative.dk/politisk-inspiration-kv17/ to /membercare/login?redirect=https://konservative.dk/politisk-inspiration-kv17/
+22:14:12	Warning: 	Moved Permanently for https://konservative.dk/arrangementer/test/
+22:14:12	Warning: 	File has moved from https://konservative.dk/arrangementer/test/ to https://konservative.dk/arrangementer/eu-konference-8-april-2017/
+22:14:12	Warning: 	Moved Permanently for https://konservative.dk/partiet/politisk-horisont/
+22:14:12	Warning: 	File has moved from https://konservative.dk/partiet/politisk-horisont/ to https://konservative.dk/politisk-horisont/
+22:14:12	Error: 	"Not Found" (404) at link https://konservative.dk/politisk-horisont/aargang-2017/nr-1/din-lyn-guide-regeringsgrundlaget/_wp_link_placeholder (from https://konservative.dk/politisk-horisont/aargang-2017/nr-1/din-lyn-guide-regeringsgrundlaget/)
+22:14:12	Error: 	"Not Found" (404) at link https://cdn.konservative.dk/wp-content/uploads/sites/8/2016/11/Assens-veteranbil-politik-588x325.png (from https://konservative.dk/politisk-horisont/aargang-2017/nr-1/din-lyn-guide-regeringsgrundlaget/)
+22:14:12	Error: 	"Not Found" (404) at link https://konservative.dk/partiet/politisk-horisont/du-ogsaa-klar-valg/%20%e2%80%8e (from https://konservative.dk/politisk-horisont/aargang-2017/nr-1/portraet-brigitte-klintskov-jerkel/)
+22:14:12	Error: 	"Not Found" (404) at link https://konservative.dk/partiet/politisk-horisont/michael-zieglers-12-raad-valgkamp/%20%e2%80%8e (from https://konservative.dk/politisk-horisont/aargang-2017/nr-1/portraet-brigitte-klintskov-jerkel/)
+22:14:12	Error: 	"Not Found" (404) at link https://konservative.dk/politisk-horisont/aargang-2017/nr-1/michael-zieglers-12-raad-valgkamp/_wp_link_placeholder (from https://konservative.dk/politisk-horisont/aargang-2017/nr-1/michael-zieglers-12-raad-valgkamp/)
+22:14:12	Error: 	"Not Found" (404) at link https://konservative.dk/politisk-horisont/aargang-2017/nr-1/det-aktive-bagland/_wp_link_placeholder (from https://konservative.dk/politisk-horisont/aargang-2017/nr-1/det-aktive-bagland/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 13 minutes 41 seconds : 2287 links scanned, 2056 files written (313566676 bytes overall) [263609043 bytes received at 59626 bytes/sec], 66590227 bytes transferred using HTTP compression in 1264 files, ratio 22%, 1.4 requests per connection
+(159 errors, 125 warnings, 0 messages)

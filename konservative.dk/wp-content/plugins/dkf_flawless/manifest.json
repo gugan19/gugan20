@@ -1,0 +1,15 @@
+{
+  "short_name": "Konservative",
+  "name": "Det Konservative Folkeparti",
+  "icons": [
+    {
+      "src":"/wp-content/plugins/dkf_flawless/img/dkf_icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#000",
+  "theme_color": "#00583C",
+  "display": "standalone"
+}

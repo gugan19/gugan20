@@ -1,0 +1,281 @@
+﻿/*
+label {
+  display: inline-block;
+  width: 125px;
+}
+    */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+/*****************************************
+  Datepicker widget, v1.2.20
+  URL: https://github.com/devbridge/jQuery-Autocomplete
+*****************************************/
+.autocomplete-suggestions{
+	background:white;
+	max-height:none !important;	
+	border:1px solid #999;
+	margin-top:-1px;
+	border-bottom-left-radius:2px;
+	border-bottom-right-radius:2px;		
+}
+.autocomplete-suggestions .autocomplete-selected{
+	background:#eee;
+}
+
+.autocomplete-suggestions .autocomplete-suggestion{		
+	font-size:14px;
+	padding:7px 11px;
+}
+.autocomplete-suggestions .autocomplete-suggestion strong{
+    color:#00583c;
+}
+
+.registration .error, .registration .error:focus {
+    border: red 3px solid !important;
+}
+
+.registration span.error {
+    border:none;
+    background:red;
+    display:block;
+    color:white;
+    font-size:12px;
+    padding:3px 10px;
+}
+
+.registration span.error a {
+  color: white;
+  text-decoration: underline;
+}
+
+.registration span.error a:hover,
+.registration span.error a:focus {
+  text-decoration: underline;
+}
+
+.registration input[type=submit][disabled]{
+    opacity:0.5;
+}
+
+.registration h2{
+    text-align:center;
+    font-size:30px;
+    font-weight:800;
+    color:#00583c;
+    margin-bottom:10px;
+}
+
+.dkf_select_membership_form .membership {
+    background:white;
+    padding:0;
+    margin-bottom:20px;
+    border: 3px solid #ccc;
+    cursor:pointer;
+    border-radius:3px;
+}
+
+.dkf_select_membership_form .membership_info {
+  padding: 30px;
+  display: inline-block;
+}
+
+.dkf_select_membership_form .membership_info .bullet_note {
+  margin-left: 20px;
+}
+
+.dkf_select_membership_form .membership.selected{
+    border: 3px solid #00573C;
+}
+
+.dkf_select_membership_form .membership .your_choice {
+  display: none;
+}
+
+.dkf_select_membership_form .membership.selected .your_choice {
+    color: white;
+    background-color: #00583C;
+    text-align: center;
+    padding: 5px;
+    display: block;
+    font-weight: 700;
+}
+
+.dkf_select_membership_form .membership h4{
+    color:#00583c;
+    font-size:22px;
+}
+
+.dkf_select_membership_form .membership .left{
+    width:50%;
+    float:left;
+    overflow:hidden;
+}
+.dkf_select_membership_form .membership .right{
+    width:50%;
+    float:right;
+    overflow:hidden;
+}
+
+.dkf_select_membership_form .membership .price {
+    color:#9C9C9C;
+    font-size:22px;
+    font-weight:300;
+    margin-bottom:10px;
+}
+
+.dkf_select_membership_form .membership p{
+    color:#7C7C7C;
+    font-size:14px;
+}
+
+.dkf_select_membership_form .membership p:last-child {
+    margin-bottom: 0;
+}
+
+.dkf_select_membership_form .membership ul{
+    margin:10px 0 0 0;
+    padding:0;
+    list-style:none;
+}
+
+.dkf_select_membership_form .membership li{
+    font-size:13px;
+    color:#7C7C7C;
+    display:block;
+    padding-left:30px; 
+    padding-top:2px; 
+    margin-bottom:7px;
+    position:relative;
+}
+.dkf_select_membership_form .membership li:before{
+    content:'';
+    display:block;
+    position:absolute;
+    width:19px;
+    height:19px;
+    top:0px;
+    left:0px;
+    border:2px solid #ddd;
+    border-radius:50%;
+}
+.dkf_select_membership_form .membership li.active{
+    background-image:url('../img/checkmark-verification-circular-button-outline%402x.png');
+    background-repeat:no-repeat;
+    background-position:left top;
+    background-size:22px 22px;
+}
+.dkf_select_membership_form .membership li.active:before{
+    display:none;
+}
+
+.dkf_select_membership_form .membership input[type=button]{    
+    background:white;
+    border:1px solid #00583c;
+    color:#00583c;
+    border-radius:3px;
+    padding: 12px 45px;    
+    font-weight:700;
+    font-size:14px;    
+    margin:0;
+    float:none;
+}
+.dkf_select_membership_form .membership.selected input[type=button]{
+    background:#00583c;
+    border:1px solid #00583c;
+    color:white;
+}
+
+.dkf_payment_completed h3, .dkf_payment_canceled h3, .dkf_register_for_mobilepay h3, .dkf_error h3{
+    font-size:22px !important;
+    font-weight:300 !important;
+    margin:0 !important;
+}
+
+.dkf_payment_completed input[type=submit], .dkf_payment_completed input[type=button]{
+    float:left;
+    margin-bottom:30px;
+}
+
+input[name="membership_id"]{
+    display:none;
+}
+
+@media screen and (max-width: 1024px) {
+    .dkf_select_membership_form .membership ul{
+        padding-left:20px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .dkf_sign_up_form.registration input[type=submit],
+    .dkf_select_membership_form.registration input[type=submit] {
+        width:auto;
+        min-width:160px;
+    }
+
+}
+
+@media screen and (max-width: 580px){
+
+    .dkf_select_membership_form .membership .left,.dkf_select_membership_form .membership .right{
+        float:none;
+        width:auto;        
+    }
+
+    .dkf_select_membership_form .membership ul{
+        padding-left:0;
+        margin-bottom:20px;
+    }    
+
+    .dkf_select_membership_form .membership_info .bullet_note {
+      margin-left: 0;
+    }
+}
+
+.dkf_sign_up_form.registration input[type="date"],
+.dkf_sign_up_form.registration input[type="text"],
+.dkf_sign_up_form.registration input[type="number"],
+.dkf_sign_up_form.registration input[type="email"] {
+  background: white;
+}
+
+.registration .step, 
+.registration .form-item-submit {
+  text-align: center;
+}
+
+.submit_select_membership-wrapper {
+  display: inline-block;
+}
+
+.registration .step  {
+  margin-bottom: 20px;
+}
+
+.registration .gdlr-form-item {
+  margin-bottom: 15px;
+}
+
+.dkf_payment_canceled .pos-center {
+  text-align: center;
+}
+
+.dkf_interests_form .sender {
+  font-weight: 700;
+  color: #00583c;
+}
+
+input[type="number"] {
+  color: #a3a3a3;
+}
+
+.dkf_payment_completed input[type=button],
+.dkf_payment_completed input[type=submit] {
+    margin-top: 10px;
+    width: inherit;
+}

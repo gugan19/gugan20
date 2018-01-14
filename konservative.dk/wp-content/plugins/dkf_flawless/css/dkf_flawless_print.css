@@ -1,0 +1,12 @@
+@media print {
+  .gdlr-header-wrapper,
+  .footer-wrapper,
+  .gdlr-sidebar,
+  .cookie-notice-container {
+    display: none;
+  }
+  
+  .with-sidebar-content {
+    width: 100%;
+  }
+}
